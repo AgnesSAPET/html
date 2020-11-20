@@ -1,0 +1,26 @@
+
+a:link{
+background-color: black;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+color: white;	
+width: 15%;
+}
+
+a:hover {
+  background-color: grey;
+  display :flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+a:visited{
+color: white;
+}
+
+.button{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
